@@ -36,11 +36,6 @@
           <div class="ml-5 pl-5 mt-1">
             <font-awesome-icon :icon="['fas', 'bars']" class="fa-1.5x bar text-warning" />
           </div>
-
-          <!-- TV icon  -->
-          <!-- <div class="ml-5 pl-5 mt-1">
-            <font-awesome-icon :icon="['fas', 'tv']" class="fa-1.5x tv text-warning" />
-          </div>-->
         </div>
 
         <!-- Options-List -->

@@ -13,7 +13,7 @@ import {
   faSearch,
   faBars,
   faComment,
-  faTv,
+
 } from '@fortawesome/free-solid-svg-icons'; // fas
 
 // import {
@@ -44,7 +44,7 @@ import store from './store';
 Vue.use(BootstrapVue);
 
 
-library.add(faSearch, faBars, faComment, faTv); // fas
+library.add(faSearch, faBars, faComment); // fas
 // library.add(faEnvelope, faClock, faUserCircle, faCheckCircle); // far
 library.add(faTwitter, faFacebookSquare, faGooglePlusG, faInstagram, faYoutube, faLinkedin); // fab
 
